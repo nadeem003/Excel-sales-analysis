@@ -6,8 +6,9 @@ Welcome to my data analysis portfolio! This repository showcases my proficiency 
 
 ### Project Objectives:
 
-1. **Customer Performance Report:** Explore the [_Customer Performance Report_](https://github.com/KirandeepMarala/Excel-Sales_Analysis/blob/main/Customer%20Performance%20Report.pdf) to assess customer behavior and trends.
-2. **Market Performance Analysis:** Conduct a comprehensive comparison between [_Market Performance and Sales Targets_](https://github.com/KirandeepMarala/Excel-Sales_Analysis/blob/main/Customer%20Performance%20Report.pdf) for strategic decision-making.
+1. **Customer Performance Report:** Explore the [_Customer Performance Report_](https://github.com/nadeem003/Excel-sales-analysis/blob/main/Customer%20Performance%20Report.pdf
+) to assess customer behavior and trends.
+2. **Market Performance Analysis:** Conduct a comprehensive comparison between [_Market Performance and Sales Targets_](https://github.com/nadeem003/Excel-sales-analysis/blob/main/Market%20Performance%20vs%20Target%20Report.pdf) for strategic decision-making.
 
 ### Purpose:
 
@@ -21,8 +22,9 @@ Identify sales patterns, track key performance indicators (KPIs), and uncover gr
 
 ### Project Objectives:
 
-1. **Profit and Loss (P&L) Reports by Fiscal Year:** View the [_P&L Statement by Fiscal Year_](https://github.com/KirandeepMarala/Excel-Sales_Analysis/blob/main/P%26L%20Statement%20by%20Fiscal%20Year.pdf) for comprehensive financial evaluation.
-2. **Profit and Loss (P&L) Reports by Markets:** Explore the [_P&L Statement by Markets_](https://github.com/KirandeepMarala/Excel-Sales_Analysis/blob/main/P%26L%20Statement%20by%20Markets.pdf) to understand performance across different markets.
+1. **Profit and Loss (P&L) Reports by Fiscal Year:** View the [_P&L Statement by Fiscal Year_](https://github.com/nadeem003/Excel-sales-analysis/blob/main/P%26L%20Statement%20by%20Fiscal%20Year.pdf
+) for comprehensive financial evaluation.
+2. **Profit and Loss (P&L) Reports by Markets:** Explore the [_P&L Statement by Markets_](https://github.com/nadeem003/Excel-sales-analysis/blob/main/P%26L%20Statement%20by%20Markets.pdf) to understand performance across different markets.
 
 ### Purpose:
 
